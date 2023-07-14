@@ -7,5 +7,3 @@ function mammyTheCat (input){
         console.log ("Wrond answer!!!");
     }
 }
-
-mammyTheCat (["YES!"]);
